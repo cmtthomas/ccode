@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-  cout<<"ABCDEFGHIJKLMNOPQRSTUVWXYZ"<<endl;
+  cout<<"ABCDEFGHIJKLMNOPQRSTUVWXYZÆØÅ"<<endl;
   cout<<"StevePi"<<endl;
   cout<<"Mike"<<endl;
 }
